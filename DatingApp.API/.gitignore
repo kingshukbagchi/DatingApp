@@ -2,3 +2,13 @@
 bin
 obj
 *.db
+
+/node_modules
+.vscode/*
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+/dist
+/tmp
