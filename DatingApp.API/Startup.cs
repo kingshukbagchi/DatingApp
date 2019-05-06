@@ -13,7 +13,7 @@ using Microsoft.Extensions.Options;
 using DatingApp.API.Data;
 using DatingApp.API.Models;
 using Microsoft.EntityFrameworkCore;
-//using Microsoft.EntityFrameworkCore.Sqlite;
+using Microsoft.EntityFrameworkCore.Sqlite;
 
 namespace DatingApp.API
 {
